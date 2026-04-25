@@ -1,0 +1,27 @@
+p::before{
+    content: "#"
+}
+
+div:hover,span:hover{
+    color: red;
+}
+
+div:active{
+    color: aqua;
+}
+
+a:link{
+    color: #000;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color: aquamarine;
+}
+
+a:active{
+    color: blue;
+}
